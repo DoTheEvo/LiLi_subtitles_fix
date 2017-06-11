@@ -1,3 +1,8 @@
+# just use Tahoma font
+
+-----
+
+
 ![in action gif](http://i.imgur.com/cvyG6nN.gif)
 
 subtitles from [subscene.com](https://subscene.com/) have occasionally this issue where lower case l is replaced with capital I, not everywhere just enough to be reaIIy annoying if your font shows the difference
